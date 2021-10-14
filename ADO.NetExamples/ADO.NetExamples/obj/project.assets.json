@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\Delegate\\ADO.NetExamples\\ADO.NetExamples\\ADO.NetExamples.csproj",
+      "projectUniqueName": "E:\\Work\\EF\\ADO.NetExamples\\ADO.NetExamples\\ADO.NetExamples.csproj",
       "projectName": "ADO.NetExamples",
-      "projectPath": "E:\\Work\\Delegate\\ADO.NetExamples\\ADO.NetExamples\\ADO.NetExamples.csproj",
+      "projectPath": "E:\\Work\\EF\\ADO.NetExamples\\ADO.NetExamples\\ADO.NetExamples.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\Delegate\\ADO.NetExamples\\ADO.NetExamples\\obj\\",
+      "outputPath": "E:\\Work\\EF\\ADO.NetExamples\\ADO.NetExamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

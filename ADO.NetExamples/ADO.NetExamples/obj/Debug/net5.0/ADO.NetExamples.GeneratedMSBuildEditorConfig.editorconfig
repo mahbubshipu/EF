@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ADO.NetExamples
-build_property.ProjectDir = E:\Work\Delegate\ADO.NetExamples\ADO.NetExamples\
+build_property.ProjectDir = E:\Work\EF\ADO.NetExamples\ADO.NetExamples\

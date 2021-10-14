@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tkZIEHlwn9MUYLxXI7rPh9hIjaAmKE0/YowGtmclGf1dcyB/8yWJpsXNEtwJ1PZ5n4E4yz/Svo34AZZBuuskqg==",
+  "dgSpecHash": "EJPmEcUFONJ7N/1T5SAyNVhbp0ssyPywwwKlltFDJo5Kqh4U9k/aIJGqLw3qHh2XZADYr2wBFPAVVQvdiii6FA==",
   "success": true,
-  "projectFilePath": "E:\\Work\\Delegate\\ADO.NetExamples\\ADO.NetExamples\\ADO.NetExamples.csproj",
+  "projectFilePath": "E:\\Work\\EF\\ADO.NetExamples\\ADO.NetExamples\\ADO.NetExamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
